@@ -1,2 +1,2 @@
 # Machine_learning
-This repo will provide the basic examples for various machine learning aspects. 
+This repo is meant for the ones who are keen to start with their machine learning.
