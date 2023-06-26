@@ -1,2 +1,5 @@
 This repo will provide the step-by-step procedure to tune the deep learning models using "Breast cancer data". The data has been downloaded from "https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data" 
-1.  breast_cancer-1.ipynb: Contains basic deep learning codes (Especially for a beginner to understand)
+1.  breast_cancer-1.ipynb:- Contains basic deep learning codes (Especially for a beginner to understand)
+2.  breast_cancer-2.ipynb:- Added the train_test_split methods
+3.  breast_cancer-3.ipynb:- Creating the layers using the functions for dynamicity
+4.  breast_cancer-4.ipynb:- Added n-fold method, this will shuffle the train and test sets to provide a better 
