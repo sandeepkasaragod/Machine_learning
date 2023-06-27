@@ -3,4 +3,4 @@ This repo will provide the step-by-step procedure to tune the deep learning mode
 2.  breast_cancer-2:- Added the train_test_split methods
 3.  breast_cancer-3:- Easy data handling with pandas
 4.  breast_cancer-4:- Dummy encoder on label column (to_categorical) method  
-5.  breast_cancer-4:- Added n-fold method, this will shuffle the train and test sets to provide a better prediction outcome
+5.  breast_cancer-5:- Added n-fold method, this will shuffle the train and test sets to provide a better prediction outcome
